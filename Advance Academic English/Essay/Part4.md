@@ -1,0 +1,64 @@
+### Corpus Analysis Methods
+
+Corpus analysis is a method used to study large collections of texts, known as corpora, to identify language patterns and trends. In higher education, it's often applied to policy documents to understand how institutions address issues like academic integrity. Common methods include corpus building, frequency analysis, and using tools like Sketch Engine ([Corpus Linguistics for Education](https://www.researchgate.net/publication/342900740_Corpus_Linguistics_for_Education_A_Guide_for_Research)) for keyword extraction and concordance analysis. These techniques help researchers systematically analyze texts, such as academic integrity policies, to uncover mentions of generative AI and related technologies.
+
+### Scholarly Research on Generative AI and Academic Integrity
+
+Recent studies show scholars are examining how generative AI, like ChatGPT, affects academic integrity in higher education. A 2023 study in Higher Education Policy analyzed 142 policies and found a gap in addressing AI, suggesting the need for "Technological Explicitness" ([Decoding Academic Integrity Policies](https://link.springer.com/article/10.1057/s41307-023-00323-2)). Another 2024 review in ScienceDirect looked at 25 articles, highlighting both opportunities and challenges ([Reassessing academic integrity in the age of AI](https://www.sciencedirect.com/science/article/pii/S2590291125000269)). A multicultural survey with 1,217 participants from 76 countries, published in 2024, found high awareness of GenAI but concerns about inaccuracies and academic integrity, with cultural factors influencing perceptions ([Generative AI and the future of higher education](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00453-6)). Progress is ongoing, but challenges include policy updates lagging behind technology and debates on AI's role in cheating.
+
+---
+
+### Survey Note: Detailed Literature Review on Corpus Analysis and Generative AI in Academic Integrity
+
+This note provides a comprehensive overview of the current research on corpus analysis methods and scholarly studies concerning governance frameworks for academic integrity in the context of generative AI, aligning with the user's focus on higher education policy analysis and student perceptions. The analysis draws from recent academic papers and resources, ensuring a thorough examination of methodologies, findings, and existing challenges.
+
+#### Corpus Analysis Research Processes and Methods
+Corpus linguistics is a robust methodology for analyzing large bodies of text, known as corpora, to uncover linguistic patterns and trends. In higher education research, it is particularly valuable for studying policy documents, such as academic integrity guidelines, to understand institutional responses to emerging technologies like generative AI. The process typically involves several steps, as outlined in various studies:
+
+- **Data Selection and Corpus Building**: Researchers select relevant texts, such as university policies, and compile them into a corpus. For instance, a study on academic integrity policies analyzed 142 documents from higher education institutions worldwide, conducted in November and December 2022, and May 2023 ([Decoding Academic Integrity Policies](https://link.springer.com/article/10.1057/s41307-023-00323-2)).
+- **Data Cleaning and Annotation**: Texts are cleaned and annotated for analysis, often including transcription and tagging for specific features. Resources like Pérez-Paredes (2020) highlight 18 key skills, including annotation, essential for corpus research ([Corpus Linguistics for Education](https://www.researchgate.net/publication/342900740_Corpus_Linguistics_for_Education_A_Guide_for_Research)).
+- **Computer-Assisted Analysis**: Tools such as Sketch Engine are used for frequency analysis, keyword extraction, and concordance, enabling researchers to identify mentions of AI and related terms. A ScienceDirect overview notes techniques like word list generation and collocation analysis, applied in educational research ([Corpus Analysis - an overview](https://www.sciencedirect.com/topics/social-sciences/corpus-analysis)).
+- **Interpretation of Results**: Findings are interpreted to draw conclusions, such as gaps in policy language regarding AI, often combined with qualitative methods like thematic content analysis (TCA), as referenced in Anderson (2007) ([Decoding Academic Integrity Policies](https://link.springer.com/article/10.1057/s41307-023-00323-2)).
+
+These methods are semiautomated, facilitating the identification of language patterns that might be inaccessible through manual analysis, as discussed in Alsop et al. (2020) ([Uses of Corpus Linguistics in Higher Education Research](https://www.emerald.com/insight/content/doi/10.1108/s2056-375220200000006003/full/html)). The approach is particularly helpful for higher education researchers investigating language data and context, with case studies spanning educational contexts, disciplines, and genres.
+
+Challenges include the need for advanced learner competence and innovative teacher training, especially at earlier educational stages, as noted in a study on Data-Driven Learning (DDL), which is more effective with advanced university students ([Corpus linguistics and its applications in higher education](https://www.researchgate.net/publication/277736640_Corpus_linguistics_and_its_aplications_in_higher_education)). The literature also emphasizes the importance of training students in corpus linguistics at early stages with simple awareness-raising activities to foster self-regulated learning and critical thinking.
+
+#### Scholarly Research on Governance Frameworks for Academic Integrity with Generative AI
+Professional scholars have increasingly focused on the impact of generative AI on academic integrity, particularly in higher education, with several studies providing insights into governance frameworks, progress, and existing problems. The following details summarize key research:
+
+- **Policy Analysis and Gaps**: A 2023 study in Higher Education Policy conducted a corpus analysis of 142 academic integrity policies, revealing a significant gap in addressing AI and associated technologies like ChatGPT ([Decoding Academic Integrity Policies](https://link.springer.com/article/10.1057/s41307-023-00323-2)). The analysis, performed in November and December 2022, and May 2023, found no institutions had revised policies despite the 6-month period since ChatGPT's release. Content analysis of 53 guidance documents suggested a positive focus on GenAI tools but advised caution, proposing a modification to Bretag et al.’s (2011) model by introducing “Technological Explicitness” to include explicit guidelines about new technologies.
+
+| **Aspect**                          | **Details**                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| Corpus Size and Scope               | Analysis of 142 academic integrity policies from HEIs worldwide, plus 53 guidance documents.     |
+| Tools and Techniques                | Utilized Sketch Engine and thematic content analysis (TCA), referencing Anderson (2007).         |
+| Focus Areas                         | Explored AI mentions, revealing policy gaps and suggesting “Technological Explicitness.”         |
+| Key Findings                        | No revised policies post-ChatGPT, positive focus on GenAI with caution, need for policy updates. |
+
+- **Systematic Literature Review**: A 2024 study in ScienceDirect conducted a systematic review using the PICO framework, selecting 25 articles from 1443 based on PRISMA, to critically examine AI's impact on academic integrity ([Reassessing academic integrity in the age of AI](https://www.sciencedirect.com/science/article/pii/S2590291125000269)). The review emphasized the importance of balancing AI benefits with ethical standards, contributing to ongoing dialogues about policy reform.
+
+- **Multicultural Perspectives**: Another 2024 study in the International Journal of Educational Technology in Higher Education surveyed 1,217 participants from 76 countries, examining GenAI usage, benefits, and concerns ([Generative AI and the future of higher education](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00453-6)). Key findings included high awareness of GenAI, with ChatGPT being most recognized, and benefits like personalized support (Mean=4.082±0.96) and literature searches (Mean=3.783±1.21). Concerns included factual inaccuracies (Mean=4.181±1.021), biases (Mean=3.592±1.23), and threats to academic integrity (Mean=3.807±1.26). Cultural correlations showed high uncertainty avoidance (OR=3.671, CI [1.56–3.68], p<0.001) and long-term orientation (OR=2.870, CI [1.76–3.98], p<0.01) linked to classifying GenAI use as cheating, with negative correlation with perceived potential (r=-0.375, p<0.01) and positive with concerns (r=0.539, p<0.001).
+
+| **Aspect**                     | **Details**                                                                                     | **Relevant Numbers**                                                                 |
+|--------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Awareness and Familiarity      | High awareness, ChatGPT most recognized due to adaptability.                                     | 1,217 participants, 76 countries                                                    |
+| Benefits                       | Personalized support (Mean=4.082±0.96), literature search (Mean=3.783±1.21), equity (Mean=3.801±1.037). | Means: 4.082±0.96, 3.783±1.21, 3.801±1.037                                         |
+| Concerns                       | Inaccuracies (Mean=4.181±1.021), biases (Mean=3.592±1.23), integrity threats (Mean=3.807±1.26). | Means: 4.181±1.021, 3.592±1.23, 3.807±1.26                                         |
+| Cultural Correlations          | Uncertainty avoidance (OR=3.671, CI [1.56–3.68], p<0.001), long-term orientation (OR=2.870, CI [1.76–3.98], p<0.01). | OR=3.671, CI [1.56–3.68], p<0.001; OR=2.870, CI [1.76–3.98], p<0.01                |
+
+- **Progress and Challenges**: Progress includes increased awareness and research, with studies advocating for policy updates and culturally tailored approaches. However, challenges persist, such as policy lag, as seen in the 2023 study, and debates on whether GenAI use constitutes cheating, with 42.7% advocating for regulatory policies and 22.4% opposing. Existing problems include factual inaccuracies, biases, and the need for educational institutions to adapt assessment designs to mitigate misconduct risks, as noted in educational guidelines ([Generative Artificial Intelligence: Promoting academic integrity](https://www2.education.vic.gov.au/pal/generative-artificial-intelligence/guidance/promoting-academic-integrity)).
+
+This detailed analysis shows that while generative AI offers significant educational benefits, it necessitates a reevaluation of academic integrity frameworks, with corpus linguistics providing a systematic approach to policy analysis and cultural considerations shaping governance strategies.
+
+---
+
+### Key Citations
+- [Decoding Academic Integrity Policies: A Corpus Linguistics Investigation of AI and Other Technological Threats](https://link.springer.com/article/10.1057/s41307-023-00323-2)
+- [Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity](https://www.sciencedirect.com/science/article/pii/S2590291125000269)
+- [Generative AI and the future of higher education: a threat to academic integrity or reformation? Evidence from multicultural perspectives](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00453-6)
+- [Corpus Linguistics for Education: A Guide for Research](https://www.researchgate.net/publication/342900740_Corpus_Linguistics_for_Education_A_Guide_for_Research)
+- [Corpus Analysis - an overview](https://www.sciencedirect.com/topics/social-sciences/corpus-analysis)
+- [Uses of Corpus Linguistics in Higher Education Research: An Adjustable Lens](https://www.emerald.com/insight/content/doi/10.1108/s2056-375220200000006003/full/html)
+- [Corpus linguistics and its applications in higher education](https://www.researchgate.net/publication/277736640_Corpus_linguistics_and_its_aplications_in_higher_education)
+- [Generative Artificial Intelligence: Promoting academic integrity](https://www2.education.vic.gov.au/pal/generative-artificial-intelligence/guidance/promoting-academic-integrity)

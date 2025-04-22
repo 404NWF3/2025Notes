@@ -1,0 +1,6 @@
+# Gitbook
+_book 
+node_modules
+SUMMARY.md
+others
+*.json
